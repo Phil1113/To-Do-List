@@ -16,7 +16,6 @@ export default class WeekMap extends React.Component {
                 </div>
             )
         }
-
         )
     }
 }
